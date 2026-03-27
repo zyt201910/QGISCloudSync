@@ -1,0 +1,13 @@
+[general]
+name=QGIS Cloud Sync
+description=QGIS云端同步插件，支持保存工程文件快照和数据图层文件到MinIO存储桶
+version=3.0.0
+type=python
+qgisMinimumVersion=3.0
+author=Your Name
+email=your.email@example.com
+about=This plugin allows you to save QGIS project snapshots and data layers to MinIO storage bucket.
+repository=https://github.com/yourusername/qgis-cloud-sync
+
+[files]
+main=__init__.py
